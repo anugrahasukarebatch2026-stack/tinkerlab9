@@ -1,0 +1,67 @@
+<html>
+<title> 
+	Table 
+</title>
+
+<head>
+</head>	
+
+<body> 
+<body style= "background-color:powderblue;">
+<table>
+<style>
+		table{
+			border : 1px solid black;
+			border-collapse:collapse;
+			text-align:center;
+			}
+		th, td{
+			border : 1px solid black; 
+			padding:10px
+			}
+		th {background-color: red;}
+		td {background-color: white;}
+	</style>	
+
+<table border = "2">
+<tr>
+		
+		<th> Sr </th>
+		<th> Name </th>
+		<th> S1 </th>
+
+		<Hr>
+		<tr>
+			<th> 1 </th>
+			<td> one </td>
+			<td style = "color: blue;"> This is SIT situated at Nagpur.This college has only 1 department which is <q> Computer science and we are in 1st year i.e Batch 2026-2030 </td>
+		<tr>
+			<th> 2 </th>
+			<td> two </td>
+			<td style = "color: blue;"> dos </td>
+		<tr>
+			<th> 3 </th>
+			<td> three </td>
+			<td style = "color: blue;"> tres </td>
+		<tr>
+			<th> 4 </th>
+			<td> four </td>
+			<td style = "color: blue;"> cuatro </td>
+		<tr>
+			<th> 5 </th>
+			<td> five </td>
+			<td style = "color: blue;"> cino </td>
+
+</table>
+<UL style = "color: green;">
+	<li> x </li>
+	<li> y </li>
+	<li> z </li>
+</UL>
+<OL style = "color: yellow;">
+	<li> A </li>
+	<li> B </li>
+	<li> C </li>
+</OL>
+</body>
+</html>
