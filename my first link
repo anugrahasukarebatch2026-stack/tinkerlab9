@@ -6,7 +6,9 @@
 
 <body>
 	<h2> MY First link </h2>
-	<a href= "https://github.com">GitHub</a>
+	<a href= "https://github.com" target="_blank">Github </a>
+	<h2> MY First image </h2>
+	<img src="file://C:\website/github.jpg" width="500" height="300">
 
 </body>
 </html>
