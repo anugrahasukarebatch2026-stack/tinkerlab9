@@ -1,0 +1,12 @@
+<!doctype html>
+<html>
+<head>
+	<title>Practical 2:Image,Links & Navigation</title>
+</head>
+
+<body>
+	<h2> MY First link </h2>
+	<a href= "https://github.com">GitHub</a>
+
+</body>
+</html>
