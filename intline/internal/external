@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+	<head>
+		<title> INLINE CSS </title>
+	</head>
+<body>
+<h1 style = "color :red";>
+Red heading</h1>
+</body>
+</html>
+
+<!doctype html>
+<html>
+	<head>
+		<title> INTERNAL CSS </title>
+		<style>
+			body{
+				 background-color: lightblue;
+				}
+
+                       h1{ 
+				background-color :green;
+				}
+			 p {
+       			      color: red;
+      			      font-size: 50px;
+			      font-style :italic;
+			      font-weight: bold;
+			      background-color :yellow;
+       			     }
+
+</style>
+</head>
+<body>
+<h1 style = "color :yellow";> Internal CSS</h1>
+<p style = "color : purple";> Anugraha Sukare, Anugraha Sukare, Anugraha Sukare, Anugraha Sukare, </p>
+</body>
+</html>
