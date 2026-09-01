@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+<head>
+	<title> How to create a box </title>
+
+	<style> 
+		.box{
+			width :250px;
+			padding : 20px;
+			background-color:lightblue;
+			margin:50px
+		}
+</style>
+	<style> 
+		.container{
+			display:flex;
+			flex-wrap: wrap;
+		}
+</style>
+</head>
+<body>
+	<div class = "container">
+		<div class= "box">
+			<h1>1st box</h1>
+		</div>
+		<div class= "box">
+			<h1>second box</h1>
+		<style "background-color:green;">
+
+		</div>
+		<div class= "box">
+			<h1>third box</h1>
+		</div>
+		<div class= "box">
+			<h1>fourth box</h1>
+			<style "background-color:green";>
+		</div>
+	</div>
+</body>
+</html>
